@@ -1,0 +1,64 @@
+# Computer Vision
+ultralytics
+opencv-python
+opencv-contrib-python
+supervision
+pillow
+
+# Data Processing
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+joblib
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Multi-Agent Framework
+langchain
+langgraph
+
+# RAG Components
+sentence-transformers
+qdrant-client
+pypdf
+faiss_cpu-1.15.1
+
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Configuration
+python-dotenv
+pyyaml
+
+# Monitoring & Logging
+loguru
+
+# Utilities
+tqdm
+requests
+
+# Jupyter
+jupyter
+notebook
+
+# Testing
+pytest
+pytest-cov
+
+#Dashboard
+streamlit
+

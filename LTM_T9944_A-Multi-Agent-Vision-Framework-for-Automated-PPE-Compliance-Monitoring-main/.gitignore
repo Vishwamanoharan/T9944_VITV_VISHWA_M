@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Models
+models/*.pt
+models/*.pth
+models/*.pkl
+
+# Data
+data/SH17/
+data/PPE/
+data/videos/
+data/synthetic/
+
+# Qdrant
+qdrant_storage/
+
+# Docker
+docker-data/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Testing
+.coverage
+htmlcov/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Temporary
+tmp/
+temp/
